@@ -46,16 +46,17 @@ Blinder is deployed on Android platforms for real-time data anonymization. This 
 - [learn2learn](https://github.com/learnables/learn2learn): a software library for meta-learning research.
 
 ## Citation
-Xin Yang and Omid Ardakanian. 2022. [Blinder: End-to-end Privacy Protection in Sensing Systems via Personalized Federated Learning](https://arxiv.org/abs/2209.12046), preprint.
+Xin Yang and Omid Ardakanian. 2023. [Blinder: End-to-end Privacy Protection in Sensing Systems via Personalized Federated Learning](https://doi.org/10.1145/3623397). ACM Trans. Sen. Netw. 20, 1, Article 15 (January 2024), 32 pages.
+
 ```
-@misc{https://doi.org/10.48550/arxiv.2209.12046,
-  doi = {10.48550/ARXIV.2209.12046},
-  url = {https://arxiv.org/abs/2209.12046},
-  author = {Yang, Xin and Ardakanian, Omid},
-  keywords = {Machine Learning (cs.LG), Cryptography and Security (cs.CR), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Blinder: End-to-end Privacy Protection in Sensing Systems via Personalized Federated Learning},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{yang2023blinder,
+  title={Blinder: End-to-end Privacy Protection in Sensing Systems via Personalized Federated Learning},
+  author={Yang, Xin and Ardakanian, Omid},
+  journal={ACM Transactions on Sensor Networks},
+  volume={20},
+  number={1},
+  pages={1--32},
+  year={2023},
+  publisher={ACM New York, NY}
 }
 ```
