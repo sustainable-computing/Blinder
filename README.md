@@ -1,4 +1,5 @@
 # Blinder: End-to-end Privacy Protection in Sensing Systems via Personalized Federated Learning
+[![TOSN](https://img.shields.io/badge/ACM-TOSN-blue?style=flat)](https://dl.acm.org/doi/10.1145/3623397)
 [![arXiv](https://img.shields.io/badge/arXiv-2209.12046-b31b1b.svg)](https://arxiv.org/abs/2209.12046)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/sustainable-computing/Blinder/blob/main/LICENSE.md)
 
